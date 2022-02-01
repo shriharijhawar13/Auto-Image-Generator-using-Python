@@ -10,4 +10,4 @@ If not, run the command given below -
   python3 -m pip install --upgrade Pillow
  
  For the documentation refer the following - 
- [title]https://pillow.readthedocs.io/en/latest/handbook/index.html
+https://pillow.readthedocs.io/en/latest/handbook/index.html
